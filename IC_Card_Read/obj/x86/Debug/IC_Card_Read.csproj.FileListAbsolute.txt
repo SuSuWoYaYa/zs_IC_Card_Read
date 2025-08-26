@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\bin\Debug\IC_Card_Read.exe
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\bin\Debug\IC_Card_Read.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\obj\x86\Debug\IC_Card_Read.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\obj\x86\Debug\IC_Card_Read.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\obj\x86\Debug\IC_Card_Read.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\obj\x86\Debug\IC_Card_Read.exe
+c:\users\administrator\documents\visual studio 2010\Projects\IC_Card_Read\IC_Card_Read\obj\x86\Debug\IC_Card_Read.pdb
